@@ -530,6 +530,12 @@ Libraries and tools
 
 #### Image Generation
 
++ [Unified Personalized Reward Model for Vision Generation](https://arxiv.org/abs/2602.24233) (Mar. 2026)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.24233)
+  [![Star](https://img.shields.io/github/stars/DAGroup-PKU/SpatialT2I.svg?style=social&label=Star)](https://github.com/DAGroup-PKU/SpatialT2I)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://dagroup-pku.github.io/SpatialT2I/)
+
+
 + [Unified Personalized Reward Model for Vision Generation](https://arxiv.org/pdf/2602.02380) (Feb. 2026)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2602.02380)
   [![Star](https://img.shields.io/github/stars/UnifiedReward/flex.svg?style=social&label=Star)](https://codegoat24.github.io/UnifiedReward/flex)
