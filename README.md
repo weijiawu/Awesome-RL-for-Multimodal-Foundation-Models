@@ -728,6 +728,12 @@ Libraries and tools
 
 #### Video Generation
 
++ [Manifold-Aware Exploration for Reinforcement Learning in Video Generation](https://arxiv.org/abs/2603.21872) (Mar. 2026)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.21872)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://dungeonmassster.github.io/SAGE-GRPO-Page/)
+  [![Star](https://img.shields.io/github/stars/Tencent-Hunyuan/SAGE-GRPO.svg?style=social&label=Star)](https://github.com/Tencent-Hunyuan/SAGE-GRPO)
+
+
 + [WorldCompass: Reinforcement Learning for Long-Horizon World Models](https://arxiv.org/abs/2602.09022) (Nov. 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.09022)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://3d-models.hunyuan.tencent.com/world/)
