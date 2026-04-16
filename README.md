@@ -241,6 +241,11 @@ Libraries and tools
 #### Spatial & 3D Perception with RL for MLLMs
 **Definition**: Perception centric works applies RL to sharpen object detection, segmentation and grounding without engaging in lengthy chain–of–thought reasoning.
 
++ [3D-RFT: Reinforcement Fine-Tuning for Video-based 3D Scene Understanding](https://arxiv.org/abs/2603.04976) (Mar. 2026)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.04976)
+  [![Star](https://img.shields.io/github/stars/3D-RFT/3D-RFT.svg?style=social&label=Star)](https://github.com/3D-RFT/3D-RFT)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://3d-rft.github.io/)
+
 + [Omni-R1: Reinforcement Learning for Omnimodal Reasoning via Two-System Collaboration](https://arxiv.org/pdf/2505.20256) (May. 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2505.20256)
   [![Star](https://img.shields.io/github/stars/aim-uofa/Omni-R1.svg?style=social&label=Star)](https://github.com/aim-uofa/Omni-R1)
