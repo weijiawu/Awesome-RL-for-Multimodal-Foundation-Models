@@ -66,14 +66,21 @@ We structure this collection along a trajectory of visual RL. This chart ugroups
 
 
 ## 📚 Table of Contents <!-- omit in toc -->
-Libraries and tools
 
+- [Libraries and tools](#libraries-and-tools)
 - [Benchmarks environments and datasets with Visual RL](#benchmarks-environments-and-datasets-with-visual-rl)
 - [Multi-Modal Large Language Models with RL](#multi-modal-large-language-models-with-rl)
 - [Visual Generation with RL](#visual-generation-with-rl)
 - [RL for Unified Model](#rl-for-unified-model)
 - [Vision Language Action Models with RL](#vision-language-action-models-with-rl)
 - [Others](#others)
+
+
+### Libraries and tools
+
++ [VeRL-Omni: Easy, Fast, and Stable RL Training for Diffusion and Omni-Modality Models](https://github.com/verl-project/verl-omni) (Apr. 2026)
+  [![Star](https://img.shields.io/github/stars/verl-project/verl-omni.svg?style=social&label=Star)](https://github.com/verl-project/verl-omni)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://verl-omni.readthedocs.io/en/latest/index.html)
 
 
 ### Benchmarks environments and datasets with Visual RL
