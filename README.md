@@ -710,6 +710,11 @@ Libraries and tools
 
 #### Image Editing
 
++ [RewardHarness: Self-Evolving Agentic Post-Training](https://arxiv.org/abs/2605.08703) (May 2026)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.08703)
+  [![Star](https://img.shields.io/github/stars/TIGER-AI-Lab/RewardHarness.svg?style=social&label=Star)](https://github.com/TIGER-AI-Lab/RewardHarness)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://rewardharness.com)
+
 + [Talk2Move: Reinforcement Learning for Text-Instructed Object-Level Geometric Transformation in Scenes](https://arxiv.org/abs/2601.02356) (Jan. 2026)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2601.02356)
   [![Star](https://img.shields.io/github/stars/sparkstj/Talk2Move.svg?style=social&label=Star)](https://github.com/sparkstj/Talk2Move)
@@ -1264,4 +1269,3 @@ If you find our survey and this repository useful for your research, please cons
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=weijiawu/Awesome-Visual-Reinforcement-Learning&type=Date)](https://www.star-history.com/#weijiawu/Awesome-Visual-Reinforcement-Learning&Date)
-
