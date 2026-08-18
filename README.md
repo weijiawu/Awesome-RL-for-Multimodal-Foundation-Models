@@ -1275,4 +1275,4 @@ If you find our survey and this repository useful for your research, please cons
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=weijiawu/Awesome-Visual-Reinforcement-Learning&type=Date)](https://www.star-history.com/#weijiawu/Awesome-Visual-Reinforcement-Learning&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=weijiawu/Awesome-Visual-Reinforcement-Learning&type=Date)](https://star-history.dera.page/#weijiawu/Awesome-Visual-Reinforcement-Learning&Date)
