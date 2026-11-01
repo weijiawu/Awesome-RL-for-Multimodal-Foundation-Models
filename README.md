@@ -553,6 +553,12 @@ We structure this collection along a trajectory of visual RL. This chart ugroups
 
 #### Image Generation
 
++ [MEND: RL For Flow Models via Proximal Velocity Matching](https://arxiv.org/abs/2610.05954) (Oct. 2026)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2610.05954)
+  [![Star](https://img.shields.io/github/stars/shreshthsaini/MEND-RL.svg?style=social&label=Star)](https://github.com/shreshthsaini/MEND-RL)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://shreshthsaini.github.io/MEND-RL/)
+
+
 + [Unified Personalized Reward Model for Vision Generation](https://arxiv.org/abs/2602.24233) (Mar. 2026)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.24233)
   [![Star](https://img.shields.io/github/stars/DAGroup-PKU/SpatialT2I.svg?style=social&label=Star)](https://github.com/DAGroup-PKU/SpatialT2I)
