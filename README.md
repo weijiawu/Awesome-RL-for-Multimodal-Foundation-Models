@@ -78,6 +78,9 @@ We structure this collection along a trajectory of visual RL. This chart ugroups
 
 ### Libraries and tools
 
++ [Awesome Perception-Aware RLVR: Unified Reproductions and Controlled Comparisons of Perception-Aware RLVR and On-Policy Distillation for Vision-Language Models](https://github.com/zsxm1998/awesome-perception-aware-rlvr) (Oct. 2026)
+  [![Star](https://img.shields.io/github/stars/zsxm1998/awesome-perception-aware-rlvr.svg?style=social&label=Star)](https://github.com/zsxm1998/awesome-perception-aware-rlvr)
+
 + [VeRL-Omni: Easy, Fast, and Stable RL Training for Diffusion and Omni-Modality Models](https://github.com/verl-project/verl-omni) (Apr. 2026)
   [![Star](https://img.shields.io/github/stars/verl-project/verl-omni.svg?style=social&label=Star)](https://github.com/verl-project/verl-omni)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://verl-omni.readthedocs.io/en/latest/index.html)
