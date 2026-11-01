@@ -457,6 +457,14 @@ We structure this collection along a trajectory of visual RL. This chart ugroups
 
 #### Video Reasoning with RL for MLLMs
 
++ [TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs](https://arxiv.org/abs/2607.17423) (Jul. 2026)
+  [![Star](https://img.shields.io/github/stars/MCG-NJU/TimeLens2.svg?style=social&label=Star)](https://github.com/MCG-NJU/TimeLens2)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.17423)
+
++ [Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning](https://arxiv.org/abs/2601.23224) (Jan. 2026)
+  [![Star](https://img.shields.io/github/stars/MCG-NJU/Video-o3.svg?style=social&label=Star)](https://github.com/MCG-NJU/Video-o3)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2601.23224)
+
   <!-- before context is new 23-12-2025 -->
 
 + [MOSS-ChatV: Reinforcement Learning with Process Reasoning Reward for Video Temporal Reasoning](https://arxiv.org/abs/2509.21113) (Sep. 2025)
